@@ -9,3 +9,5 @@ dependencyResolutionManagement {
 rootProject.name = "AndroidLibrary"
 include ':app'
 include ':text-blink'
+include ':AndroidLibrary'
+
